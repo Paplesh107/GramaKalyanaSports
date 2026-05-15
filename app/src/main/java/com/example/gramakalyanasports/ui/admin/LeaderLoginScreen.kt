@@ -126,9 +126,9 @@ fun LeaderLoginScreen(
 
                     // SIMPLE ADMIN LOGIN
                     if (
-                        email == "pappujadhav480@gmail.com"
+                        email == ""
                         &&
-                        password == "Paplesh@123"
+                        password == ""
                     ) {
 
                         Toast.makeText(
