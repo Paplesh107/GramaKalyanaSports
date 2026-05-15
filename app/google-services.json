@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11115086992",
+    "project_id": "gramakalyanasports-5c10c",
+    "storage_bucket": "gramakalyanasports-5c10c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11115086992:android:aa885ee85b14c026e80415",
+        "android_client_info": {
+          "package_name": "com.example.gramakalyanasports"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4A9SBUcqXBBqK3-ci33B5yDPQWWwOgzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
